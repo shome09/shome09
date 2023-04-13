@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shome09
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...html,css, javascript, python
-- 💞️ I’m looking to collaborate on ...small beginner,intermediate projects based on HTML,CSS,JS and python
+- 🌱 I’m currently learning ...html,css, javascript, php
+- 💞️ I’m looking to collaborate on ...small beginner,intermediate projects based on HTML,CSS,JS and php
 - 📫 How to reach me ...debjit.shome99@gmail.com
 
 <!---
